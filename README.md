@@ -1,4 +1,4 @@
-# C++-Test-Checker
+# C++ Test-Checker
 
 ## Execute TEST
 ```
